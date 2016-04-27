@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="movie_name_background">#81D4FA</color>
+    <color name="detail_fragment_background">#ffffff</color>
+
+</resources>
